@@ -1,0 +1,4 @@
+git add .github/workflows/build-jar.yml
+git commit -m "Add GitHub Actions workflow to build JAR"
+git push origin main
+
